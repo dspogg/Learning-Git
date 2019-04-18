@@ -1,2 +1,2 @@
 # Learning-Git
-First repo
+I really like pickles and mayonaise.
